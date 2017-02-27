@@ -1,0 +1,22 @@
+{
+  "name": "js-doc-parse",
+  "version": "1.0.0",
+  "description": "Fork of dojo/js-doc-parse.",
+  "main": "parse.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kernel72/js-doc-parse.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kernel72/js-doc-parse/issues"
+  },
+  "homepage": "https://github.com/kernel72/js-doc-parse#readme"
+}
